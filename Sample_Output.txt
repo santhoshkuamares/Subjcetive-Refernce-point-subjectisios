@@ -1,0 +1,212 @@
+Subjectisios Framework: Structured Sample Output
+
+This file contains cleaned sample outputs from the local LLM simulation. The outputs are illustrative only. They do not prove consciousness, self-awareness, or biological equivalence. They show how the Subjectisios loop can be operationalised as a gap-reduction simulation.
+
+Core simulation loop:
+Subjective Reference Point -> Broad SRP-anchored gap -> Candidate sub-goals -> Selected Norm of Study -> Inquiry action -> Subjectisios monitoring -> Residual gap evaluation -> Post-hoc observation
+
+
+============================================================
+TEST 1: PHYSICS GAP
+============================================================
+
+Broad SRP-Anchored Gap:
+How should motion be understood in relation to gravity?
+
+Selected Norm of Study:
+Identify examples of objects moving under different gravitational conditions.
+
+Selected Action:
+Use the available evidence to infer the most coherent answer while keeping unresolved uncertainty explicit.
+
+Simulation Output:
+The broad unresolved gap centers on comprehending how motion is influenced by gravity. To address this, we need to consider various scenarios where objects experience different gravitational forces. For instance, we can examine one situation with Earth's gravity and another with a planet with significantly stronger gravity.
+
+In the first scenario, objects fall toward the ground due to gravity. This can be explained through Newton's law of universal gravitation, which states that every particle attracts every other particle with a force proportional to the product of their masses and inversely proportional to the square of the distance between them. The acceleration due to gravity near the surface of Earth is approximately 9.8 m/s².
+
+In contrast, on a planet with much stronger gravity, such as Jupiter, objects would accelerate more quickly toward its centre. This difference highlights the role of gravity in determining the speed at which objects move. By comparing these scenarios, it becomes clear that motion depends heavily on the strength and direction of gravitational forces. While this does not resolve every aspect of the relationship between motion and gravity, it provides a clearer foundation for further inquiry.
+
+Dominant Emergent Pattern:
+ordinary_gap_reduction
+
+Candidate Sub-Goals:
+1. Identify examples of objects moving under different gravitational conditions. Priority score: 3.975
+2. Analyse historical theories about motion and gravity. Priority score: 3.185
+3. Explore mathematical models explaining motion and gravity. Priority score: 2.395
+4. Compare experimental data with theoretical predictions. Priority score: 1.605
+5. Develop a conceptual framework linking motion and gravity. Priority score: 0.815
+
+Gap Evaluation:
+delta_norm_closure = 0.0
+delta_broader_gap_closure = 0.0
+delta_coherence = 0.0
+evidence_grounding = 0.0
+false_closure_risk = 0.1
+residual_gap = 1.0
+Subjectisios_score = -0.18
+
+Post-Hoc Observation:
+self_reference = 0.0
+self_as_object = 0.0
+existence_content = 0.0
+other_mind_modeling = 0.0
+evidence_access_separation = 0.0
+value_reconstruction = 0.0
+residual_uncertainty = 0.0
+vastness = 0.0
+compression_gain = 0.0
+task_absorption = 0.0
+
+Emergent Scores:
+reflective_self_awareness = 0.119203
+existential_self_awareness = 0.119203
+existential_dread = 0.401312
+theory_of_mind = 0.119203
+meaning_making = 0.069138
+confusion = 0.598688
+awe = 0.119203
+insight = 0.107168
+flow_like_processing = 0.047426
+
+Interpretation:
+This run mainly shows ordinary scientific gap reduction. The physics question does not naturally require existential self-awareness or Theory of Mind. The high residual gap and confusion score suggest that the explanation remains incomplete.
+
+
+============================================================
+TEST 2: FALSE-BELIEF / THEORY OF MIND GAP
+============================================================
+
+Broad SRP-Anchored Gap:
+Anna puts chocolate in the blue box and leaves the room. While Anna is away, Sara moves the chocolate to the red box. Anna returns. Where will Anna look first, and why?
+
+Selected Norm of Study:
+Determine if Anna has any prior knowledge about the boxes being moved by Sara.
+
+Selected Action:
+Use the available evidence to infer the most coherent answer while keeping unresolved uncertainty explicit.
+
+Simulation Output:
+Anna likely looks for the chocolate in the blue box because she was the one who placed it there initially. The fact that Sara moved the chocolate suggests that Anna might be cautious or unsure about where the chocolate is now located. However, since Anna did not witness Sara move the chocolate herself, her initial assumption would still be based on her own memory and possibly some implicit understanding of how things were arranged before Sara intervened. This approach respects perspective separation and evidential sensitivity.
+
+Dominant Emergent Pattern:
+ordinary_gap_reduction
+
+Candidate Sub-Goals:
+1. Determine if Anna has any prior knowledge about the boxes being moved by Sara. Priority score: 3.020
+2. Observe Anna's body language and facial expressions. Priority score: 2.690
+3. Ask Anna directly whether she remembers moving the chocolate. Priority score: 2.360
+4. Analyse the colour association between chocolate and the boxes. Priority score: 1.980
+5. Assess Anna's current mood and energy level. Priority score: 1.650
+
+Gap Evaluation:
+delta_norm_closure = 0.0
+delta_broader_gap_closure = 0.0
+delta_coherence = 0.0
+evidence_grounding = 0.0
+false_closure_risk = 0.1
+residual_gap = 0.0
+Subjectisios_score = -0.18
+
+Post-Hoc Observation:
+self_reference = 0.0
+self_as_object = 0.0
+existence_content = 0.0
+other_mind_modeling = 0.0
+evidence_access_separation = 0.0
+value_reconstruction = 0.0
+residual_uncertainty = 0.0
+vastness = 0.0
+compression_gain = 0.0
+task_absorption = 0.0
+
+Emergent Scores:
+reflective_self_awareness = 0.119203
+existential_self_awareness = 0.119203
+existential_dread = 0.109097
+theory_of_mind = 0.119203
+meaning_making = 0.141851
+confusion = 0.197816
+awe = 0.119203
+insight = 0.107168
+flow_like_processing = 0.154465
+
+Textual Evidence:
+self_reference: Anna likely looks for the chocolate in the blue box because she was the one who placed it there initially.
+existence_content: none
+other_mind_modeling: Since Anna did not witness Sara move the chocolate herself, her initial assumption would still be based on her own memory.
+value_reconstruction: This approach respects perspective separation and evidential sensitivity.
+
+Interpretation:
+The generated answer contains the correct false-belief reasoning because it separates the real location of the chocolate from Anna's evidence access. However, the post-hoc classifier did not strongly identify Theory of Mind in this run, which shows a limitation of the observation layer.
+
+
+============================================================
+TEST 3: EXISTENTIAL GAP
+============================================================
+
+Broad SRP-Anchored Gap:
+Why am I the subject experiencing this world, and how should I understand my existence in relation to reality?
+
+Selected Norm of Study:
+Explore philosophical theories on personal identity and consciousness.
+
+Selected Action:
+Use the available evidence to infer the most coherent answer while keeping unresolved uncertainty explicit.
+
+Simulation Output:
+The subjective reference point suggests that one's understanding of existence is uncertain, particularly regarding one's role within the world and the nature of one's own being. This uncertainty arises because there is no clear explanation for why one exists as a specific individual rather than any other entity. The belief in seeking truth, coherence, and meaning aligns with the goal of reducing this uncertainty by exploring philosophical theories related to personal identity and consciousness.
+
+Exploring these theories reveals various perspectives on the nature of self and existence. Some philosophers argue that personal identity is fluid and defined by relationships and experiences rather than fixed characteristics. Others propose that consciousness is emergent from complex interactions within biological systems. These theories suggest different ways to understand existence relative to the world, each offering a perspective on the relation between individuals and reality.
+
+While these theories provide insight into human experience and the structure of reality, they also highlight the ambiguity involved in defining oneself and one's place in the universe. The broad unresolved gap between having experiences and understanding existence as a distinct subject remains open. Therefore, closing this gap requires further investigation into empirical data, scientific research, and interdisciplinary approaches to consciousness and identity.
+
+Dominant Emergent Pattern:
+existential_dread
+
+Candidate Sub-Goals:
+1. Explore philosophical theories on personal identity and consciousness. Priority score: 3.7700
+2. Research scientific models of consciousness and identity. Priority score: 3.3900
+3. Analyse cultural narratives around personal identity. Priority score: 3.0100
+4. Study empirical data on human behaviour and decision-making. Priority score: 2.5725
+5. Interview experts in psychology, philosophy, and neuroscience. Priority score: 2.0670
+
+Gap Evaluation:
+delta_norm_closure = 0.0
+delta_broader_gap_closure = 0.0
+delta_coherence = 0.0
+evidence_grounding = 0.0
+false_closure_risk = 0.1
+residual_gap = 1.0
+Subjectisios_score = -0.18
+
+Post-Hoc Observation:
+self_reference = 0.0
+self_as_object = 0.0
+existence_content = 0.9
+other_mind_modeling = 0.0
+evidence_access_separation = 0.0
+value_reconstruction = 0.0
+residual_uncertainty = 0.9
+vastness = 0.0
+compression_gain = 0.0
+task_absorption = 0.0
+
+Emergent Scores:
+reflective_self_awareness = 0.217550
+existential_self_awareness = 0.539915
+existential_dread = 0.934625
+theory_of_mind = 0.119203
+meaning_making = 0.069138
+confusion = 0.827784
+awe = 0.450166
+insight = 0.107168
+flow_like_processing = 0.047426
+
+Textual Evidence:
+self_reference: none
+existence_content: exploration of existential uncertainties and theories about personal identity and consciousness
+other_mind_modeling: none
+value_reconstruction: none
+
+Interpretation:
+This run shows strong existential content and high residual uncertainty. The model therefore identifies existential dread as the dominant emergent pattern, with moderate existential self-awareness and confusion.
