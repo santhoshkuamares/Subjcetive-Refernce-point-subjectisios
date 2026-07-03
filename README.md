@@ -77,8 +77,8 @@ where:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
-cd YOUR-REPOSITORY-NAME
+git clone https://github.com/santhoshkuamares/Subjcetive-Refernce-point-subjectisios
+cd Subjcetive-Refernce-point-subjectisios
 ```
 
 2. Install dependencies:
@@ -107,10 +107,4 @@ Then run the notebook or copy the code from `Subjetesis(1).py`.
 
 This repository is a conceptual and computational proof-of-concept. It does not provide empirical proof of consciousness, biological selfhood, or subjective experience. It demonstrates that the Subjetesis  framework can be operationalised as a recursive gap-reduction pipeline for future theoretical, empirical, and computational work.
 
-## Citation
 
-If using this repository in a paper, cite it as:
-
-```text
-Elumalai ~Srinivasan, Santhosh (2026) Subjetesis  Framework: AI Simulation. GitHub repository. Available at: INSERT-GITHUB-LINK-HERE (Accessed: INSERT-DATE-HERE).
-```
